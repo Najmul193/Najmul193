@@ -41,5 +41,4 @@ Tech: Python, Deep Learning
 - Portfolio: najmul193.github.io/portfolio-Najmul
 
 ## 📊 GitHub Stats
-
-![Najmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmul193&show_icons=true&theme=tokyonight)
+![Najmul's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Najmul193&show_icons=true&theme=tokyonight)
