@@ -33,13 +33,13 @@ Tech: Python, TensorFlow
 Modified U-Net architecture for leaf disease detection.  
 Tech: Python, Deep Learning  
 
-## 📊 GitHub Stats
-
-![Najmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmul193&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
 - Email: najmulalamrivan4@gmail.com  
 - LinkedIn: linkedin.com/in/s-m-najmul-alam  
 - Portfolio: najmul193.github.io/portfolio-Najmul
+
+## 📊 GitHub Stats
+
+![Najmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmul193&show_icons=true&theme=tokyonight)
