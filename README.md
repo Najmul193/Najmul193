@@ -33,6 +33,10 @@ Tech: Python, TensorFlow
 Modified U-Net architecture for leaf disease detection.  
 Tech: Python, Deep Learning  
 
+## 📊 GitHub Stats
+
+![Najmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmul193&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
