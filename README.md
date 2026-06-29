@@ -96,10 +96,10 @@ A modified U-Net architecture for detecting and isolating infected leaf regions 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Najmul193&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="./profile/stats.svg" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Najmul193&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najmul193&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./profile/top-langs.svg" />
 
 </div>
 
