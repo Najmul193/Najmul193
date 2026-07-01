@@ -2,7 +2,7 @@
 
 # Hi, I'm S M Najmul Alam 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA0DA&center=true&vCenter=true&width=700&lines=Business+Analyst+%40+Data+Edge+Ltd.;RAG+%26+LLM+Systems+Builder;Oracle+FlexCube+14.8+Specialist;Machine+Learning+Engineer;CSE+Student+%40+BRAC+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA0DA&center=true&vCenter=true&width=700&lines=Business+Analyst+%7C+AI+Engineer;RAG+%26+LLM+Systems+Builder;Core+Banking+%26+Fintech+Specialist;Machine+Learning+Engineer;CSE+Student+%40+BRAC+University)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-m-najmul-alam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://najmul193.github.io/portfolio-Najmul)
