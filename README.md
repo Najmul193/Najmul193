@@ -14,9 +14,7 @@
 
 ### 👨‍💻 About me
 
-Business Analyst at **Data Edge Ltd.** driving the NRB Bank Oracle FlexCube 14.8 upgradation — doing requirement gap analysis, parameterisation, and UAT across Core, Credit, and Treasury domains. I build AI tools on top of real banking infrastructure: RAG pipelines over Oracle documentation, AI-powered learning platforms, and interoperable payment simulators.
-
-CGPA **3.86 / 4.00** · Merit Scholarship 2022–2026 · BRAC University CSE
+CSE student at **BRAC University** passionate about building things that sit at the intersection of AI and real-world systems. I work across the full stack — from RAG pipelines and LLM-powered tools to embedded ML deployment on edge hardware. My focus areas are fintech infrastructure, core banking systems, and applied machine learning for healthcare and agriculture.
 
 ---
 
