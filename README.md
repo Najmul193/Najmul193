@@ -47,7 +47,7 @@ Containerised sender/receiver DFSP simulation integrated with the Mojaloop core 
 </td>
 <td width="50%" valign="top">
 
-**🔬 [Machine Vision QA System](https://github.com/Najmul193/WhiteBoard)**
+**🔬 [Machine Vision QA System](https://github.com/Najmul193/WhiteBoard](https://github.com/Najmul193/Programmable-Machine-Vision-System-for-Industrial-Product-Quality-Assurance))**
 Undergraduate thesis — trained EfficientNet-B0, ResNet-50, and MobileNetV2 via transfer learning, deployed to NVIDIA Jetson Nano + STM32 over UART/CAN for real-time defect sorting at sub-400ms latency.
 `Python` `TensorFlow` `EfficientNet` `Jetson Nano` `STM32`
 
